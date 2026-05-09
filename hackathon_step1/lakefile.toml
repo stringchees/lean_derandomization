@@ -19,3 +19,6 @@ name = "HackathonStep1"
 
 [[lean_lib]]
 name = "HackathonStep2"
+
+[[lean_lib]]
+name = "HackathonStep3"
