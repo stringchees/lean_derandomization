@@ -16,3 +16,6 @@ rev = "v4.30.0-rc2"
 
 [[lean_lib]]
 name = "HackathonStep1"
+
+[[lean_lib]]
+name = "HackathonStep2"
